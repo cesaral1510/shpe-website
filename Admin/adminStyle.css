@@ -1,0 +1,32 @@
+body{
+	height:100%;
+	margin:0px;
+	padding:0px;
+	background:url(../Images/newBG.png) no-repeat center center fixed;
+		-webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+#box {
+	background-color:gray;
+    position:absolute;
+    border:solid black 1px;
+    top:25%;
+    right:30%;
+    bottom:25%;
+    left:30%;
+    padding:25px;
+    margin:25px;
+}
+#content {
+	background-color:gray;
+    position:absolute;
+    border:solid black 1px;
+    top:20%;
+    right:20%;
+    bottom:20%;
+    left:20%;
+    padding:25px;
+    margin:25px;
+}
